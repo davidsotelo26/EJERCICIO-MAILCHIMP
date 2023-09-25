@@ -1,0 +1,26 @@
+*{
+    background-color: white;
+}
+
+.logotipomailchimp {
+    height: 256px;
+    width: 256px;
+    display:flex;
+    align-content:right;
+    }
+
+    body {
+        display:flex;
+    }
+    
+header{
+    width:20vw;
+    height:100%;
+    display:flex;
+}
+
+main {
+    height: 100%;
+    width: 60vw;
+    display:flex;
+}
